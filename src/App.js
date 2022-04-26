@@ -5,6 +5,7 @@ import Home from "./components/pages/Home";
 import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import Services from "./components/pages/Services";
 import Products from "./components/pages/Products";
+import ServicesV2 from "./components/pages/ServicesV2";
 import Team from "./components/pages/Team";
 import Contact from "./components/pages/Contact";
 import Faq from "./components/pages/Faq";
@@ -22,6 +23,7 @@ function App() {
               </Route>
               <Route path="/home" exact component={Home} />
               <Route path="/services" component={Services} />
+              <Route path="/servicesv2" component={ServicesV2} />
               <Route path="/products" component={Products} />
               <Route path="/team" component={Team} />
               <Route path="/faq" component={Faq} />
