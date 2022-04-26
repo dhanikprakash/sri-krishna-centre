@@ -1,0 +1,127 @@
+.about__me__title{
+    margin: 40px auto 30px auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.about__me__title h5{
+    font-family: Lora,serif;
+    line-height: 1.73;
+    letter-spacing: .5px;
+    color: #626881;
+}
+.about__me__title h2{
+    font-family: 'Paperpillar' !important;
+    font-size: larger;
+    color: #626881;
+}
+.container{        
+    width: 90%;
+    margin: 0 auto 30px auto;
+
+}
+.about__container{
+    display: grid;
+    grid-template-columns: 42% 42%;
+    gap:16%;
+  }
+  
+.about__me {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(45deg, transparent, #4db5ff, transparent);
+    display: grid;
+    place-items: center;
+  }
+
+  .about__me img{
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: all 400ms ease;
+  }
+  img{
+    display: block;
+    object-fit: cover;
+    width: 100%;
+  }
+  .about__me img:hover{
+    transform: rotate(0deg);
+  }
+  .about__cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(10rem,3fr));
+    gap: 1.5rem;
+  }
+  .about__card{
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding:2rem;
+    text-align: center;
+    transition: all 400ms ease;
+    border-color:rgba(77,181,244,0.4);
+    box-shadow: 0 6px 10px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    object-fit: cover;
+    transition: all 0.2s linear;
+  }
+  .about__card:hover{
+    border: none;
+    transform: scale(1.1);
+ 
+  }
+  .about__icon{
+    color: #4db5ff;
+    font-size: 1.4rem;
+  }
+  .about__card h5{
+    font-family: 'Paperpillar' !important;
+    font-size: larger;
+    color: #626881
+  }
+  .about__card small{
+    font-family: Lora,serif;
+    line-height: 1.73;
+    letter-spacing: .5px;
+    color: #626881;
+  }
+  .about__content p{
+    margin:2rem 0 2.6rem;
+    font-family: Poppins,sans-serif;
+    line-height: 1.73;
+    letter-spacing: .5px;
+    color: #626881;
+  }
+  .btn{
+    border: 2px solid #4db5ff;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    display: inline-block;
+    padding: .9rem 1.2rem;
+  }
+ .btn-primary{
+    background: #4db5ff;
+    color:white;
+    text-decoration: none;
+ }
+
+  @media screen and (max-width:1024px) {
+    .about__container{
+        grid-template-columns: 1fr;
+        gap:10rem;
+      }
+      section{
+          height: 100%;
+    }
+  
+}
+
+@media screen and (max-width:600px) {
+    .contact__container{
+        gap:10rem;
+    }
+
+}
