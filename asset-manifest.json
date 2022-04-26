@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/git%20branch%20-M%20main/static/css/main.09471d00.chunk.css",
-    "main.js": "/git%20branch%20-M%20main/static/js/main.5e427391.chunk.js",
-    "main.js.map": "/git%20branch%20-M%20main/static/js/main.5e427391.chunk.js.map",
-    "runtime-main.js": "/git%20branch%20-M%20main/static/js/runtime-main.9d4084ac.js",
-    "runtime-main.js.map": "/git%20branch%20-M%20main/static/js/runtime-main.9d4084ac.js.map",
-    "static/js/2.fc4b2b84.chunk.js": "/git%20branch%20-M%20main/static/js/2.fc4b2b84.chunk.js",
-    "static/js/2.fc4b2b84.chunk.js.map": "/git%20branch%20-M%20main/static/js/2.fc4b2b84.chunk.js.map",
-    "index.html": "/git%20branch%20-M%20main/index.html",
-    "static/css/main.09471d00.chunk.css.map": "/git%20branch%20-M%20main/static/css/main.09471d00.chunk.css.map",
-    "static/js/2.fc4b2b84.chunk.js.LICENSE.txt": "/git%20branch%20-M%20main/static/js/2.fc4b2b84.chunk.js.LICENSE.txt",
-    "static/media/img-2.bb238fc1.jpg": "/git%20branch%20-M%20main/static/media/img-2.bb238fc1.jpg",
-    "static/media/img-3.6d683c0e.jpg": "/git%20branch%20-M%20main/static/media/img-3.6d683c0e.jpg",
-    "static/media/img-4.a31875b7.jpg": "/git%20branch%20-M%20main/static/media/img-4.a31875b7.jpg",
-    "static/media/img-8.fabdf94d.jpg": "/git%20branch%20-M%20main/static/media/img-8.fabdf94d.jpg",
-    "static/media/img-9.f97f588f.jpg": "/git%20branch%20-M%20main/static/media/img-9.f97f588f.jpg",
-    "static/media/logo_v3.6822ab47.png": "/git%20branch%20-M%20main/static/media/logo_v3.6822ab47.png",
-    "static/media/me-about.fb4452e7.jpg": "/git%20branch%20-M%20main/static/media/me-about.fb4452e7.jpg"
+    "main.css": "/sri-krishna-centre/static/css/main.09471d00.chunk.css",
+    "main.js": "/sri-krishna-centre/static/js/main.ebd3963f.chunk.js",
+    "main.js.map": "/sri-krishna-centre/static/js/main.ebd3963f.chunk.js.map",
+    "runtime-main.js": "/sri-krishna-centre/static/js/runtime-main.9759966b.js",
+    "runtime-main.js.map": "/sri-krishna-centre/static/js/runtime-main.9759966b.js.map",
+    "static/js/2.4346fb25.chunk.js": "/sri-krishna-centre/static/js/2.4346fb25.chunk.js",
+    "static/js/2.4346fb25.chunk.js.map": "/sri-krishna-centre/static/js/2.4346fb25.chunk.js.map",
+    "index.html": "/sri-krishna-centre/index.html",
+    "static/css/main.09471d00.chunk.css.map": "/sri-krishna-centre/static/css/main.09471d00.chunk.css.map",
+    "static/js/2.4346fb25.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.4346fb25.chunk.js.LICENSE.txt",
+    "static/media/img-2.bb238fc1.jpg": "/sri-krishna-centre/static/media/img-2.bb238fc1.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/sri-krishna-centre/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/sri-krishna-centre/static/media/img-4.a31875b7.jpg",
+    "static/media/img-8.fabdf94d.jpg": "/sri-krishna-centre/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-9.f97f588f.jpg": "/sri-krishna-centre/static/media/img-9.f97f588f.jpg",
+    "static/media/logo_v3.6822ab47.png": "/sri-krishna-centre/static/media/logo_v3.6822ab47.png",
+    "static/media/me-about.fb4452e7.jpg": "/sri-krishna-centre/static/media/me-about.fb4452e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d4084ac.js",
-    "static/js/2.fc4b2b84.chunk.js",
+    "static/js/runtime-main.9759966b.js",
+    "static/js/2.4346fb25.chunk.js",
     "static/css/main.09471d00.chunk.css",
-    "static/js/main.5e427391.chunk.js"
+    "static/js/main.ebd3963f.chunk.js"
   ]
 }
