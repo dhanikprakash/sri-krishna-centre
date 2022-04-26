@@ -13,7 +13,7 @@ h1 {
   flex-flow: column;
   align-items: center;
   max-width: 1120px;
-  width: 90%;
+  width: 98%;
   margin: 0 auto;
 }
 
@@ -102,8 +102,9 @@ h1 {
 
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
-    width: 84%;
+    width: 95%;
   }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -116,4 +117,7 @@ h1 {
   .cards__item {
     margin-bottom: 2rem;
   }
+  .cards {
+    padding: .5rem; 
+}
 }
