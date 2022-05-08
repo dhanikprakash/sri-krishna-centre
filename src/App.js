@@ -9,28 +9,31 @@ import ServicesV2 from "./components/pages/ServicesV2";
 import Team from "./components/pages/Team";
 import Contact from "./components/pages/Contact";
 import Faq from "./components/pages/Faq";
+import { ToastProvider } from "react-toast-notifications";
 
 function App() {
   return (
     <>
       <HashRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
-        <Route
-          render={({ location }) => (
-            <Switch location={location}>
-              <Route exact path="/">
-                <Redirect to="/home" />
-              </Route>
-              <Route path="/home" exact component={Home} />
-              <Route path="/services" component={Services} />
-              <Route path="/servicesv2" component={ServicesV2} />
-              <Route path="/products" component={Products} />
-              <Route path="/team" component={Team} />
-              <Route path="/faq" component={Faq} />
-              <Route path="/contact" component={Contact} />
-            </Switch>
-          )}
-        />
+        <ToastProvider>
+          <Route
+            render={({ location }) => (
+              <Switch location={location}>
+                <Route exact path="/">
+                  <Redirect to="/home" />
+                </Route>
+                <Route path="/home" exact component={Home} />
+                <Route path="/services" component={Services} />
+                <Route path="/servicesv2" component={ServicesV2} />
+                <Route path="/products" component={Products} />
+                <Route path="/team" component={Team} />
+                <Route path="/faq" component={Faq} />
+                <Route path="/contact" component={Contact} />
+              </Switch>
+            )}
+          />
+        </ToastProvider>
       </HashRouter>
     </>
   );

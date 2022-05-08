@@ -3,8 +3,36 @@ import { MdOutlineEmail } from "react-icons/md";
 import { FaFacebookMessenger } from "react-icons/fa";
 import { BsWhatsapp } from "react-icons/bs";
 import "./ContactDetails.css";
+import emailjs from "emailjs-com";
+import { useToasts } from "react-toast-notifications";
 
 function ContactDetails() {
+  const { addToast } = useToasts();
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    emailjs
+      .sendForm(
+        "service_1s6jquf",
+        "template_mjf6cxp",
+        e.target,
+        "ImvenwXY3tkrVFXaS"
+      )
+      .then(
+        (result) => {
+          addToast("Sent Successfully", {
+            appearance: "success",
+            autoDismiss: true,
+          });
+          e.target.reset();
+        },
+        (error) => {
+          addToast("Failed to Sent Email", {
+            appearance: "error",
+            autoDismiss: true,
+          });
+        }
+      );
+  };
   return (
     <>
       <div className="contact__details_title">
@@ -17,7 +45,7 @@ function ContactDetails() {
             <article className="contact__option">
               <BsWhatsapp className="contact__option-icon" />
               <h4>WhatsApp</h4>
-              <h5>+9112345678</h5>
+              <h5>+919447122369</h5>
               <a
                 href="https://api.whatsapp.com/send?phone+9112345678"
                 target="_blank"
@@ -29,16 +57,16 @@ function ContactDetails() {
             <article className="contact__option">
               <MdOutlineEmail className="contact__option-icon" />
               <h4>Email</h4>
-              <h5>srikrishnacentre@gmail.com</h5>
+              <h5>drsarath150@gmail.com</h5>
               <a
-                href="mailto:dummyemail@gmail.com"
+                href="mailto:drsarath150@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
                 Send a message
               </a>
             </article>
-            <article className="contact__option">
+            {/* <article className="contact__option">
               <FaFacebookMessenger className="contact__option-icon" />
               <h4>Messenger</h4>
               <h5>FacebookMessenger</h5>
@@ -49,10 +77,10 @@ function ContactDetails() {
               >
                 Send a message
               </a>
-            </article>
+            </article> */}
           </div>
           <div className="email__form">
-            <form action="">
+            <form onSubmit={handleSubmit}>
               <input
                 type="text"
                 name="name"
