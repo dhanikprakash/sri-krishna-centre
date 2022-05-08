@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sri-krishna-centre/static/css/main.84b6b878.chunk.css",
-    "main.js": "/sri-krishna-centre/static/js/main.7cb05214.chunk.js",
-    "main.js.map": "/sri-krishna-centre/static/js/main.7cb05214.chunk.js.map",
+    "main.js": "/sri-krishna-centre/static/js/main.6ca36a9a.chunk.js",
+    "main.js.map": "/sri-krishna-centre/static/js/main.6ca36a9a.chunk.js.map",
     "runtime-main.js": "/sri-krishna-centre/static/js/runtime-main.9759966b.js",
     "runtime-main.js.map": "/sri-krishna-centre/static/js/runtime-main.9759966b.js.map",
-    "static/js/2.1c1bf8a2.chunk.js": "/sri-krishna-centre/static/js/2.1c1bf8a2.chunk.js",
-    "static/js/2.1c1bf8a2.chunk.js.map": "/sri-krishna-centre/static/js/2.1c1bf8a2.chunk.js.map",
+    "static/js/2.228371f1.chunk.js": "/sri-krishna-centre/static/js/2.228371f1.chunk.js",
+    "static/js/2.228371f1.chunk.js.map": "/sri-krishna-centre/static/js/2.228371f1.chunk.js.map",
     "index.html": "/sri-krishna-centre/index.html",
     "static/css/main.84b6b878.chunk.css.map": "/sri-krishna-centre/static/css/main.84b6b878.chunk.css.map",
-    "static/js/2.1c1bf8a2.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.1c1bf8a2.chunk.js.LICENSE.txt",
+    "static/js/2.228371f1.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.228371f1.chunk.js.LICENSE.txt",
     "static/media/Cosmetic.46b93576.png": "/sri-krishna-centre/static/media/Cosmetic.46b93576.png",
     "static/media/HandSurgery.6bb6fdbb.png": "/sri-krishna-centre/static/media/HandSurgery.6bb6fdbb.png",
     "static/media/Maxillofacial.678b92ee.png": "/sri-krishna-centre/static/media/Maxillofacial.678b92ee.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9759966b.js",
-    "static/js/2.1c1bf8a2.chunk.js",
+    "static/js/2.228371f1.chunk.js",
     "static/css/main.84b6b878.chunk.css",
-    "static/js/main.7cb05214.chunk.js"
+    "static/js/main.6ca36a9a.chunk.js"
   ]
 }
