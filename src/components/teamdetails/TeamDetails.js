@@ -2,9 +2,9 @@ import React from "react";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { RiFoldersLine } from "react-icons/ri";
-import user1 from "../../images/me-about.jpg";
 import sarath from "../../images/sarath.jpg";
-import dhanya from "../../images/dhanya.jpg";
+import dhanya from "../../images/dhanya_3.jpg";
+import sreelal from "../../images/sreelal.jpg";
 import "./TeamDetails.css";
 
 function TeamDetails() {
@@ -94,11 +94,11 @@ function TeamDetails() {
       {/* --------------------------------3------------------------------------------ */}
       <div className="about__me__title">
         <h5>Get to know!</h5>
-        <h1>Dr Sarath</h1>
+        <h1>Dr sreelal sreedharan</h1>
       </div>
       <div className="container about__container">
         <div className="about__me">
-          <img src={user1} alt="about"></img>
+          <img src={sreelal} alt="about"></img>
         </div>
         <div className="about__content">
           <div className="about__cards">
@@ -110,22 +110,22 @@ function TeamDetails() {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ years</small>
+              <small>10000+</small>
             </article>
             <article className="about__card">
               <RiFoldersLine className="about__icon" />
               <h5>surgeries</h5>
-              <small>500+ completed</small>
+              <small>10000+</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in
-            varius lectus, ac porta dui. Curabitur orci tortor, consequat vel
-            fermentum ac, placerat at quam. Vivamus leo tellus, commodo eu augue
-            ut, ullamcorper suscipit nisi. Nam fermentum dui at libero
-            malesuada, a rhoncus nunc accumsan. Curabitur egestas nunc at
-            convallis convallis. Suspendisse imperdiet gravida tristique.
-            Praesent ac enim sed ligula ultricies dictum.
+            Dr.sreelal sreedharan completed M.B.B.S and M.S General Surgery from
+            Trivandrum Medical College and MCh plastic surgery from Kottayam
+            Medical College. Microvascular surgical training from Ganga Hospital
+            Coimbatore. Worked as consultant in General Hospital Trivandrum
+            since 2010, Assistant professor,pushpagiri Medical College,
+            Thiruvalla and senior consultant in plastic surgery Sk hospital
+            trivandrum.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

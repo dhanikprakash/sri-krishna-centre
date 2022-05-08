@@ -31,7 +31,7 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(45deg, transparent, #4db5ff, transparent);
+    background: linear-gradient(45deg, transparent, #418997, transparent);
     display: grid;
     place-items: center;
   }
