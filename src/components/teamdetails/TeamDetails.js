@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { RiFoldersLine } from "react-icons/ri";
@@ -8,6 +8,9 @@ import sreelal from "../../images/sreelal.jpg";
 import "./TeamDetails.css";
 
 function TeamDetails() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
       <div className="about__me__title">

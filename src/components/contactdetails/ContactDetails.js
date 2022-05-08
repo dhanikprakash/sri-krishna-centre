@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { MdOutlineEmail } from "react-icons/md";
 import { FaFacebookMessenger } from "react-icons/fa";
 import { BsWhatsapp } from "react-icons/bs";
@@ -7,6 +7,9 @@ import emailjs from "emailjs-com";
 import { useToasts } from "react-toast-notifications";
 
 function ContactDetails() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const { addToast } = useToasts();
   const handleSubmit = (e) => {
     e.preventDefault();

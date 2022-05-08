@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./ServiceDetails.css";
 import hti from "../../images/hair-transplant.png";
-import ava1 from "../../images/img_avatar.png";
 import Cosmetic from "../../images/Cosmetic.png";
 import HandSurgery from "../../images/HandSurgery.png";
 import Microvascular from "../../images/Microvascular.png";
@@ -11,6 +10,9 @@ import Maxillofacial from "../../images/Maxillofacial.png";
 import ServiceCard from "./ServiceCard";
 
 function ServiceDetails() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="service__details">
       <div className="service__title">
