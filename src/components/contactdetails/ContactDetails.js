@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { MdOutlineEmail } from "react-icons/md";
-import { FaFacebookMessenger } from "react-icons/fa";
+// import { FaFacebookMessenger } from "react-icons/fa";
 import { BsWhatsapp } from "react-icons/bs";
 import "./ContactDetails.css";
 import emailjs from "emailjs-com";
