@@ -1,12 +1,12 @@
 import React from "react";
 import "../../App.css";
-import Cards from "../cards/Cards";
+import ServiceDetails from "../servicedetails/ServiceDetails";
 import Footer from "../footer/Footer";
 
 export default function Services() {
   return (
     <>
-      <Cards />
+      <ServiceDetails />
       <Footer />
     </>
   );
