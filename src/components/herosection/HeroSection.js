@@ -3,18 +3,14 @@ import "../../App.css";
 import { Button, ButtonV2 } from "../button/Button";
 import { useHistory } from "react-router-dom";
 import "./HeroSection.css";
+import video from "../../videos/Video-1.MOV";
 
 function HeroSection() {
   const history = useHistory();
   return (
     <div className="hero-container">
-      <video
-        src="https://dhanikprakash.github.io/react-website-responsive/videos/video-1.mp4"
-        autoPlay
-        loop
-        muted
-      />
-      <h1>ADVENTURE AWAITS</h1>
+      <video SRC={video} autoPlay loop muted />
+      <h1>Sri Krishna</h1>
       <p>Centre for Plastic Faciomaxillary and Hair Transplant</p>
       <div className="hero-btns">
         <Button
