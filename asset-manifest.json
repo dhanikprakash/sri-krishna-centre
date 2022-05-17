@@ -1,34 +1,34 @@
 {
   "files": {
     "main.css": "/sri-krishna-centre/static/css/main.84b6b878.chunk.css",
-    "main.js": "/sri-krishna-centre/static/js/main.6ca36a9a.chunk.js",
-    "main.js.map": "/sri-krishna-centre/static/js/main.6ca36a9a.chunk.js.map",
+    "main.js": "/sri-krishna-centre/static/js/main.0c1f8214.chunk.js",
+    "main.js.map": "/sri-krishna-centre/static/js/main.0c1f8214.chunk.js.map",
     "runtime-main.js": "/sri-krishna-centre/static/js/runtime-main.9759966b.js",
     "runtime-main.js.map": "/sri-krishna-centre/static/js/runtime-main.9759966b.js.map",
-    "static/js/2.228371f1.chunk.js": "/sri-krishna-centre/static/js/2.228371f1.chunk.js",
-    "static/js/2.228371f1.chunk.js.map": "/sri-krishna-centre/static/js/2.228371f1.chunk.js.map",
+    "static/js/2.dae92dfc.chunk.js": "/sri-krishna-centre/static/js/2.dae92dfc.chunk.js",
+    "static/js/2.dae92dfc.chunk.js.map": "/sri-krishna-centre/static/js/2.dae92dfc.chunk.js.map",
     "index.html": "/sri-krishna-centre/index.html",
     "static/css/main.84b6b878.chunk.css.map": "/sri-krishna-centre/static/css/main.84b6b878.chunk.css.map",
-    "static/js/2.228371f1.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.228371f1.chunk.js.LICENSE.txt",
+    "static/js/2.dae92dfc.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.dae92dfc.chunk.js.LICENSE.txt",
     "static/media/Cosmetic.46b93576.png": "/sri-krishna-centre/static/media/Cosmetic.46b93576.png",
     "static/media/HandSurgery.6bb6fdbb.png": "/sri-krishna-centre/static/media/HandSurgery.6bb6fdbb.png",
+    "static/media/IMG_1.60146811.jpg": "/sri-krishna-centre/static/media/IMG_1.60146811.jpg",
+    "static/media/IMG_2.81f35859.jpg": "/sri-krishna-centre/static/media/IMG_2.81f35859.jpg",
+    "static/media/IMG_3.bd327783.jpg": "/sri-krishna-centre/static/media/IMG_3.bd327783.jpg",
+    "static/media/IMG_4.0bfcbd80.jpg": "/sri-krishna-centre/static/media/IMG_4.0bfcbd80.jpg",
+    "static/media/IMG_5.e91e7620.jpg": "/sri-krishna-centre/static/media/IMG_5.e91e7620.jpg",
     "static/media/Maxillofacial.678b92ee.png": "/sri-krishna-centre/static/media/Maxillofacial.678b92ee.png",
     "static/media/Microvascular.2f582086.png": "/sri-krishna-centre/static/media/Microvascular.2f582086.png",
     "static/media/ReconstructiveSurgery.d8558f2b.png": "/sri-krishna-centre/static/media/ReconstructiveSurgery.d8558f2b.png",
     "static/media/dhanya_3.85384f31.jpg": "/sri-krishna-centre/static/media/dhanya_3.85384f31.jpg",
-    "static/media/img-2.bb238fc1.jpg": "/sri-krishna-centre/static/media/img-2.bb238fc1.jpg",
-    "static/media/img-3.6d683c0e.jpg": "/sri-krishna-centre/static/media/img-3.6d683c0e.jpg",
-    "static/media/img-4.a31875b7.jpg": "/sri-krishna-centre/static/media/img-4.a31875b7.jpg",
-    "static/media/img-8.fabdf94d.jpg": "/sri-krishna-centre/static/media/img-8.fabdf94d.jpg",
-    "static/media/img-9.f97f588f.jpg": "/sri-krishna-centre/static/media/img-9.f97f588f.jpg",
     "static/media/logo_v3.6822ab47.png": "/sri-krishna-centre/static/media/logo_v3.6822ab47.png",
     "static/media/sarath.63b0f6ee.jpg": "/sri-krishna-centre/static/media/sarath.63b0f6ee.jpg",
     "static/media/sreelal.6cdf617f.jpg": "/sri-krishna-centre/static/media/sreelal.6cdf617f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9759966b.js",
-    "static/js/2.228371f1.chunk.js",
+    "static/js/2.dae92dfc.chunk.js",
     "static/css/main.84b6b878.chunk.css",
-    "static/js/main.6ca36a9a.chunk.js"
+    "static/js/main.0c1f8214.chunk.js"
   ]
 }
