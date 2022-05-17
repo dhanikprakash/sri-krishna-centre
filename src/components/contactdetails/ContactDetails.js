@@ -50,7 +50,7 @@ function ContactDetails() {
               <h4>WhatsApp</h4>
               <h5>+919447122369</h5>
               <a
-                href="https://api.whatsapp.com/send?phone+9112345678"
+                href="https://api.whatsapp.com/send?phone=919447122369"
                 target="_blank"
                 rel="noreferrer"
               >

@@ -15,7 +15,7 @@ function Footer() {
               <i className="social-icon-link fab fa-instagram" />
             </a>
             <a
-              href="https://api.whatsapp.com/send?phone+919447122369"
+              href="https://api.whatsapp.com/send?phone=919447122369"
               target="_blank"
               rel="noreferrer"
             >
