@@ -13,14 +13,14 @@
     grid-template-columns:  repeat(3, 1fr);
     align-items: center;
     width: 90%;
-    margin: 10px auto;
+    margin: 10px auto 50px auto;
 }
 .service__card{
-    margin: 20px auto;
+    margin: 10px auto;
     text-align: center;
 }
 .service__card h5{
-    margin-top: 10px;
+    margin: 20px 0 15px 0;
     font-family: 'Paperpillar' !important;
     font-size: larger;
     color: #626881;

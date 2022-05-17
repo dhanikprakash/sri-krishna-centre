@@ -209,6 +209,90 @@ function FaqDetails() {
             </AccordionDetails>
           </Accordion>
           {/* -------------------2-------------------- */}
+          <Accordion>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1a-content"
+              id="panel9a-header"
+            >
+              <Typography component={"span"} variant={"body2"}>
+                <div className="question">Accordion 1</div>
+              </Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography component={"span"} variant={"body2"}>
+                <div className="answer">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
+                  eget.
+                </div>
+              </Typography>
+            </AccordionDetails>
+          </Accordion>
+          {/* -------------------2-------------------- */}
+          <Accordion>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1a-content"
+              id="panel9a-header"
+            >
+              <Typography component={"span"} variant={"body2"}>
+                <div className="question">Accordion 1</div>
+              </Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography component={"span"} variant={"body2"}>
+                <div className="answer">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
+                  eget.
+                </div>
+              </Typography>
+            </AccordionDetails>
+          </Accordion>
+          {/* -------------------2-------------------- */}
+          <Accordion>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1a-content"
+              id="panel9a-header"
+            >
+              <Typography component={"span"} variant={"body2"}>
+                <div className="question">Accordion 1</div>
+              </Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography component={"span"} variant={"body2"}>
+                <div className="answer">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
+                  eget.
+                </div>
+              </Typography>
+            </AccordionDetails>
+          </Accordion>
+          {/* -------------------2-------------------- */}
+          <Accordion>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1a-content"
+              id="panel9a-header"
+            >
+              <Typography component={"span"} variant={"body2"}>
+                <div className="question">Accordion 1</div>
+              </Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography component={"span"} variant={"body2"}>
+                <div className="answer">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
+                  eget.
+                </div>
+              </Typography>
+            </AccordionDetails>
+          </Accordion>
+          {/* -------------------2-------------------- */}
         </div>
       </div>
     </>
