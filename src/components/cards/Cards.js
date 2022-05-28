@@ -16,13 +16,15 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={img2}
-              text="Higly skilled surgens, Dr Sarath T S completed MBBS and MS (General Surgery) from Thiruvananthapuram Medical college, MCh (Plastic Surgery) from Kottayam Medical College, Dr Dhanya Prakash completed BDS from RMDCH, Annamalai University, MDS from Azeezia Dental College and PGCE from Annamalai University, Dr sreelal sreedharan completed M.B.B.S and M.S General Surgery from Trivandrum Medical College and MCh plastic surgery from Kottayam Medical College."
+              text="Higly skilled surgens, Dr Sarath T S MBBS and MS (General Surgery), MCh (Plastic Surgery),
+               Dr Dhanya Prakash  BDS, MDS and PGCE, 
+               Dr sreelal sreedharan  M.B.B.S, M.S (General Surgery) and MCh (plastic surgery)"
               label="Hair Transplantation"
               path="/services"
             />
             <CardItem
               src={img3}
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eleifend tincidunt massa, vel ultrices dui rhoncus in. Suspendisse dictum leo a quam ultricies sagittis. Nam pharetra tristique justo at luctus. Sed convallis est non elit pellentesque, vitae fermentum augue lacinia. Vivamus gravida sed ante a vehicula."
+              text="We provide General Plastic surgery, Hand and Microsurgery, Hair Transplantation, Cosmetic Surgery, Oral and Maxillofiacial Surgery in a peaceful, calm and pleasant environment for the patients."
               label="Luxury"
               path="/services"
             />
@@ -30,19 +32,19 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={img4}
-              text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
+              text="We are located at 2nd Milestone Kollam - 691004"
               label="Sri Krishna"
               path="/services"
             />
             <CardItem
               src={img5}
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Cosmetic Surgeries"
+              text="Our surgens performing Reconstructive Surgery at Sri Krishna"
+              label="Reconstructive Surgery"
               path="/products"
             />
             <CardItem
               src={img1}
-              text="Ride through the Sahara Desert on a guided camel tour"
+              text="If you have any queries get in touch via contact us page"
               label="Sri Krishna"
               path="/products"
             />
