@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sri-krishna-centre/static/css/main.6d6e5f7e.chunk.css",
-    "main.js": "/sri-krishna-centre/static/js/main.65943306.chunk.js",
-    "main.js.map": "/sri-krishna-centre/static/js/main.65943306.chunk.js.map",
+    "main.js": "/sri-krishna-centre/static/js/main.3a0780ae.chunk.js",
+    "main.js.map": "/sri-krishna-centre/static/js/main.3a0780ae.chunk.js.map",
     "runtime-main.js": "/sri-krishna-centre/static/js/runtime-main.9759966b.js",
     "runtime-main.js.map": "/sri-krishna-centre/static/js/runtime-main.9759966b.js.map",
     "static/js/2.a6abfede.chunk.js": "/sri-krishna-centre/static/js/2.a6abfede.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.9759966b.js",
     "static/js/2.a6abfede.chunk.js",
     "static/css/main.6d6e5f7e.chunk.css",
-    "static/js/main.65943306.chunk.js"
+    "static/js/main.3a0780ae.chunk.js"
   ]
 }
