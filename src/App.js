@@ -23,11 +23,11 @@ function App() {
                   <Redirect to="/home" />
                 </Route>
                 <Route path="/home" exact component={Home} />
+                <Route path="/contact" component={Contact} />
                 <Route path="/services" component={Services} />
                 <Route path="/aboutus" component={Products} />
                 <Route path="/team" component={Team} />
                 <Route path="/faq" component={Faq} />
-                <Route path="/contact" component={Contact} />
               </Switch>
             )}
           />
