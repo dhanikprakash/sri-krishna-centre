@@ -9,7 +9,7 @@ function HeroSection() {
   const history = useHistory();
   return (
     <div className="hero-container">
-      <video SRC={video} autoPlay loop />
+      <video src={video} autoPlay loop muted />
       <h1>Sri Krishna</h1>
       <p>Centre for Plastic Faciomaxillary and Hair Transplant</p>
       <div className="hero-btns">
