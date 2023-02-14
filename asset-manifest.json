@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sri-krishna-centre/static/css/main.6d6e5f7e.chunk.css",
-    "main.js": "/sri-krishna-centre/static/js/main.d4ea2f91.chunk.js",
-    "main.js.map": "/sri-krishna-centre/static/js/main.d4ea2f91.chunk.js.map",
+    "main.js": "/sri-krishna-centre/static/js/main.65943306.chunk.js",
+    "main.js.map": "/sri-krishna-centre/static/js/main.65943306.chunk.js.map",
     "runtime-main.js": "/sri-krishna-centre/static/js/runtime-main.9759966b.js",
     "runtime-main.js.map": "/sri-krishna-centre/static/js/runtime-main.9759966b.js.map",
-    "static/js/2.ac8c9705.chunk.js": "/sri-krishna-centre/static/js/2.ac8c9705.chunk.js",
-    "static/js/2.ac8c9705.chunk.js.map": "/sri-krishna-centre/static/js/2.ac8c9705.chunk.js.map",
+    "static/js/2.a6abfede.chunk.js": "/sri-krishna-centre/static/js/2.a6abfede.chunk.js",
+    "static/js/2.a6abfede.chunk.js.map": "/sri-krishna-centre/static/js/2.a6abfede.chunk.js.map",
     "index.html": "/sri-krishna-centre/index.html",
     "static/css/main.6d6e5f7e.chunk.css.map": "/sri-krishna-centre/static/css/main.6d6e5f7e.chunk.css.map",
-    "static/js/2.ac8c9705.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.ac8c9705.chunk.js.LICENSE.txt",
+    "static/js/2.a6abfede.chunk.js.LICENSE.txt": "/sri-krishna-centre/static/js/2.a6abfede.chunk.js.LICENSE.txt",
     "static/media/Cosmetic.46b93576.png": "/sri-krishna-centre/static/media/Cosmetic.46b93576.png",
     "static/media/HandSurgery.6bb6fdbb.png": "/sri-krishna-centre/static/media/HandSurgery.6bb6fdbb.png",
     "static/media/IMG_1.60146811.jpg": "/sri-krishna-centre/static/media/IMG_1.60146811.jpg",
@@ -20,7 +20,7 @@
     "static/media/Maxillofacial.678b92ee.png": "/sri-krishna-centre/static/media/Maxillofacial.678b92ee.png",
     "static/media/Microvascular.2f582086.png": "/sri-krishna-centre/static/media/Microvascular.2f582086.png",
     "static/media/ReconstructiveSurgery.d8558f2b.png": "/sri-krishna-centre/static/media/ReconstructiveSurgery.d8558f2b.png",
-    "static/media/Video-1.fe722d9d.mp4": "/sri-krishna-centre/static/media/Video-1.fe722d9d.mp4",
+    "static/media/Sreekrishna-1.98945ea7.m4v": "/sri-krishna-centre/static/media/Sreekrishna-1.98945ea7.m4v",
     "static/media/dhanya_3.85384f31.jpg": "/sri-krishna-centre/static/media/dhanya_3.85384f31.jpg",
     "static/media/logo_v3.6822ab47.png": "/sri-krishna-centre/static/media/logo_v3.6822ab47.png",
     "static/media/sarath.63b0f6ee.jpg": "/sri-krishna-centre/static/media/sarath.63b0f6ee.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9759966b.js",
-    "static/js/2.ac8c9705.chunk.js",
+    "static/js/2.a6abfede.chunk.js",
     "static/css/main.6d6e5f7e.chunk.css",
-    "static/js/main.d4ea2f91.chunk.js"
+    "static/js/main.65943306.chunk.js"
   ]
 }
